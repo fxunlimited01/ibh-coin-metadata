@@ -1,6 +1,6 @@
 {
   "name": "IBH Coin",
   "symbol": "IBH",
-  "description": "IBH Coin is a test token on the Solana Devnet.",
-  "image": ""
+  "description": "IBH Coin is a test token on the Solana Devnet, created for International Business Hub.",
+  "image": "https://raw.githubusercontent.com/fxunlimited01/ibh-coin-metadata/main/90e11d5c-4d1d-4266-a72c-14284dad71f8.png"
 }
